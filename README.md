@@ -3,7 +3,7 @@ Sensor Pack
 
 Your sensor kit contains 35 different modules, with a couple duplicates - each individual kit varies as to which modules appear more than once!
 
-There are analog and digital sensors, along with switches and output modules (e.g. LEDs, buzzers, lasers). They can all be classified into a few different types below. Modules of the same time generally share similar Arduino interface code.
+There are analog and digital sensors, along with switches and output modules (e.g. LEDs, buzzers, lasers). They can all be classified into a few different types below. Modules of the same type generally share similar Arduino interface code.
 
 All modules in this kit have a GND pin for ground connections and V+ pin to be connected to 5V supply voltage; without these power connections a module will not work!
 
